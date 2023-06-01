@@ -16,14 +16,9 @@ Currently, I'm expanding my skill set by learning Python to develop editing/proo
 
 ## 📚 Learning
 
-- **Natural Language Processing (NLP):** Expanding my knowledge in NLP to create more advanced proofreading tools and text analysis applications.
 - **Python Libraries:** Exploring popular Python libraries for text analysis and NLP tasks.
 - **APIs** to enhance the functionality of my projects.
-
-## 📌 Pinned Repositories
-[google-apps-script-workflow](https://github.com/dariru3/gas-concat_email_preview_send): A Google Workspace and Google Apps Script-powered custom workflow designed to streamline the process of formatting and sending translation request emails directly from a Google Sheet.
-
-[proofreading-tool](https://github.com/dariru3/py-pdf_full-width): A Python-based proofreading utility that detects and highlights residual Japanese full-width characters within PDF files.
+- **Natural Language Processing (NLP):** Expanding my knowledge in NLP to create more advanced proofreading tools and text analysis applications.
 
 ## 📫 Get in Touch
 
